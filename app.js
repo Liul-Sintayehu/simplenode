@@ -7,6 +7,6 @@ app.listen(3001,()=>{
 })
 app.get('/',(req,res)=>{
     res.send({
-        msg:'its working'
+        msg:'eyoba endet neh'
     })
 })
